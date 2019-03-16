@@ -1,0 +1,42 @@
+
+body {
+background: rgb(134, 196, 162);
+background-image: url("https://cdn190.picsart.com/231920695013212.png?r1024x1024"); 
+//filter: blur(8px);
+}
+}
+h2 {
+  font-family: "helvetica neue"
+}
+h1 {
+  font-family: "Roboto"
+}
+.steps {
+  font-size: 30px;
+  font-family: "Lucida Sans";
+}
+#hidden_steps {
+  text-align: left;
+  font-size: 20px;
+  display: none;
+
+}
+#aquaponics {
+  text-align: left;
+  font-size: 20px;
+  display: none;
+
+}
+#plants {
+   text-align: left;
+  font-size: 20px;
+  display: none;
+
+}
+.button {
+  width: 500px;
+  height: 250px;
+  background-color: green;
+  color: white;
+   
+}
